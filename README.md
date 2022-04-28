@@ -1,0 +1,2 @@
+# OpenCV_Enviroment
+OpenCVをただ使いたい人のためのやつです
